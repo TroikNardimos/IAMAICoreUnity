@@ -1,12 +1,10 @@
 {
-  "name": "com.iamai-core.iamai-core-unity",
-  "version": "0.0.1",
+  "name": "com.troiknardimos.iamaicoreunity",
+  "version": "1.0.0",
   "displayName": "IAMAI Core Unity",
   "description": "IAMAI Core extension for Unity",
-  "unity": "6000.0",
+  "unity": "6000",
   "author": {
     "name": "Caleb Thompson",
-  },
-  "keywords": [],
-  "dependencies": {}
+  }
 }
