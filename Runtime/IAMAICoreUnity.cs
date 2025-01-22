@@ -1,9 +1,12 @@
 using UnityEngine;
 
-public class IAMAICoreUnity : MonoBehaviour
+namespace IAMAICore.Unity
 {
-    string Generate(string input)
+    public class IAMAICoreUnity : MonoBehaviour
     {
-        return input;
+        string Generate(string input)
+        {
+            return input;
+        }
     }
 }
