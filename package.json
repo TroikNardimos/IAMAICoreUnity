@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "displayName": "IAMAI Core Unity",
   "description": "IAMAI Core extension for Unity",
-  "unity": "6000",
+  "unity": "6000.0",
   "author": {
-    "name": "Caleb Thompson",
+    "name": "Caleb Thompson"
   }
 }
